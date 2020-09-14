@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC003-HOME-User can access kirim uang domestik</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef86cbd4-cd82-4bae-a8cc-017dcb28162f</testCaseGuid>
+</TestCaseEntity>

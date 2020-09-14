@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC013-LOG-User redirect to FAQ page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec7d614e-5574-4269-8655-1a44ae2e2d4e</testCaseGuid>
+</TestCaseEntity>

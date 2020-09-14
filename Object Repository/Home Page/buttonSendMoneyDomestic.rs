@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSendMoneyDomestic</name>
+   <tag></tag>
+   <elementGuidId>22498944-d94c-4020-8a71-f58e25fbf145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='button-send__domestic']//div[@class='button-send__link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='button-send__domestic']//div[@class='button-send__link']</value>
+   </webElementProperties>
+</WebElementEntity>

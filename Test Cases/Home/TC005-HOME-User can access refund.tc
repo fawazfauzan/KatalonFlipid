@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC005-HOME-User can access refund</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1ce24c1-73b6-48a1-9dfb-77e120cbdfbe</testCaseGuid>
+</TestCaseEntity>

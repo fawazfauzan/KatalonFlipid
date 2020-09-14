@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC009-LOG-User redirect to Sign Up Page from navbar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3ccc63d-a207-4608-9af5-1e9298b7aaa0</testCaseGuid>
+</TestCaseEntity>

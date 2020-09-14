@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011-LOG-User redirect to tutorial page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>52b15963-f74b-4e74-80b4-f648d3db157b</testCaseGuid>
+</TestCaseEntity>

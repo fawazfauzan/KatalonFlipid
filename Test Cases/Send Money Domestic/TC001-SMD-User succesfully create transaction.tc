@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001-SMD-User succesfully create transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c2a6dc9-f11c-4129-a732-0cee48b97e34</testCaseGuid>
+   <variable>
+      <defaultValue>'1783037878'</defaultValue>
+      <description></description>
+      <id>90aa1335-894c-498e-8fe8-70f5c7396f8a</id>
+      <masked>false</masked>
+      <name>accountNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'TOKOPEDIA PT'</defaultValue>
+      <description></description>
+      <id>ed1ff520-572d-45fb-a1b3-0c4d6432b625</id>
+      <masked>false</masked>
+      <name>accountName</name>
+   </variable>
+</TestCaseEntity>

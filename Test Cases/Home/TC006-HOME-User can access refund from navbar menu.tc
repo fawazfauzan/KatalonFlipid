@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-HOME-User can access refund from navbar menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f94b9af1-3259-4725-a154-6da155316c64</testCaseGuid>
+</TestCaseEntity>

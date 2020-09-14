@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonSendMoneyGlobal</name>
+   <tag></tag>
+   <elementGuidId>83766a37-0fc9-4b2d-af4a-a9ce8b193b3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='button-send__globe']//a[@class='button-send__link']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='button-send__globe']//a[@class='button-send__link']</value>
+   </webElementProperties>
+</WebElementEntity>
